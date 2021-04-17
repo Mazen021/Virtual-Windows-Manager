@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="JupyterTrust" id="0451a62b-0f27-4f19-93e8-b510d9fcce08" />
   <component name="ProjectId" id="1qUYjlmFkF1P89r2oTi2LKz1ruK" />
   <component name="ProjectViewState">
@@ -24,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -225,6 +229,8 @@
       <workItem from="1618464590330" duration="4656000" />
       <workItem from="1618469452663" duration="4291000" />
       <workItem from="1618512885549" duration="4186000" />
+      <workItem from="1618666942946" duration="65000" />
+      <workItem from="1618667017004" duration="255000" />
     </task>
     <servers />
   </component>
@@ -236,10 +242,10 @@
       <screen x="0" y="26" width="1920" height="1174" />
     </state>
     <state x="690" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.26.1920.1174@0.26.1920.1174" timestamp="1618472076963" />
-    <state x="740" y="367" key="FileChooserDialogImpl" timestamp="1618469546422">
+    <state x="740" y="367" key="FileChooserDialogImpl" timestamp="1618667272734">
       <screen x="0" y="26" width="1920" height="1174" />
     </state>
-    <state x="740" y="367" key="FileChooserDialogImpl/0.26.1920.1174@0.26.1920.1174" timestamp="1618469546422" />
+    <state x="740" y="367" key="FileChooserDialogImpl/0.26.1920.1174@0.26.1920.1174" timestamp="1618667272734" />
     <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1618518609004">
       <screen x="0" y="26" width="1920" height="1174" />
     </state>
@@ -272,6 +278,10 @@
       <screen x="0" y="26" width="1920" height="1174" />
     </state>
     <state width="1877" height="393" key="GridCell.Tab.1.right/0.26.1920.1174@0.26.1920.1174" timestamp="1617307072309" />
+    <state x="461" y="257" key="SettingsEditor" timestamp="1618667007254">
+      <screen x="0" y="26" width="1920" height="1174" />
+    </state>
+    <state x="461" y="257" key="SettingsEditor/0.26.1920.1174@0.26.1920.1174" timestamp="1618667007254" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
